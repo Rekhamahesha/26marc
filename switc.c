@@ -28,6 +28,9 @@ printf("aiml\n");
 		 case 7:
 printf("ece\n");
 break;
+ case 8:
+printf("mec\n");
+return 0;
 
 
 		return 0 ;
