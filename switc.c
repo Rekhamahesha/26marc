@@ -12,6 +12,13 @@ int main(){
 		case 2:
 		printf("the b.tech in aiml\n");
 		break;
+                 case 3:
+		printf("the b.tech in ece\n");
+break;
+
+		 case 4:
+printf("the b tech in mec\n");
+break;
 
 		return 0 ;
 
