@@ -30,8 +30,10 @@ printf("ece\n");
 break;
  case 8:
 printf("mec\n");
-return 0;
+printf("cse\n");
 
+return 0;
+ 
 
 		return 0 ;
 
