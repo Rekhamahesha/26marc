@@ -22,6 +22,8 @@ break;
 		 case 5:
 printf("cse\n");
 break;
+		 case 6:
+printf("aiml\n");
 
 
 		return 0 ;
