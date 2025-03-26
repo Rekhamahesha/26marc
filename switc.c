@@ -6,8 +6,13 @@ int main(){
 	scanf("%d",&n);
 
 	switch(n){
+		case 1:
 		printf("the b.tech in cse\n");
 		break;
-	
-		return 0;
+		case 2:
+		printf("the b.tech in aiml\n");
+		break;
+
+		return 0 ;
+
 	}
