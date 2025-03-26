@@ -25,6 +25,10 @@ break;
 		 case 6:
 printf("aiml\n");
 
+		 case 7:
+printf("ece\n");
+break;
+
 
 		return 0 ;
 
