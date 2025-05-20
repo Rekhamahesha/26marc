@@ -19,6 +19,9 @@ break;
 		 case 4:
 printf("the b tech in mec\n");
 break;
+		 case 5:
+                  printf("the btech in robotics\n");
+		  break;
 
 		return 0 ;
 
